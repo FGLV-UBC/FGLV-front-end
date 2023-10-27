@@ -1,2 +1,0 @@
-# FGLV-front-end
-Vinicius
