@@ -1,3 +1,3 @@
 
-# FGLV-front-end #vinicius
+# FGLV-front-end #vinicius gui
 
