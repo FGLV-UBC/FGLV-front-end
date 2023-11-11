@@ -48,9 +48,6 @@
 
  .form-hearder{
     margin-bottom: 3rem;
-    display: flex;
-    justify-content: space-between;
-    
  }
 
  .login-button{
