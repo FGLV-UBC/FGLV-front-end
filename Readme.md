@@ -1,1 +1,1 @@
-Front - end direcionado a pagina de Cadastro do Garçom!
+Front - end direcionado as paginas de gerenciamento!

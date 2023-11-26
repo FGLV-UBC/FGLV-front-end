@@ -1,0 +1,70 @@
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#b0b300,#b38900, #ffffff )
+ }
+
+#mesa1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3f3f3f98;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+#mesa2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3f3f3f98;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.container.mt-5 h1::after {
+    content: '';
+    display: block;
+    width: 10rem;
+    height: 0.3rem;
+    background-color: #8c8e01;
+    margin: 0 auto;
+    position: absolute;
+    border-radius: 10px;
+}
+    
+.title-and-button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.title-and-button h1 {
+    margin: 0; /* Para remover margens extras do título */
+}
+
+.btn-primary.mb-3 {
+    border: none;
+    background-color: #8c8e01;
+    padding: 0.3rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+
+.btn-primary.mb-3:hover,
+.btn-primary.mb-3:focus {
+    background-color: #a8ab02;
+    outline: none;
+}
+
+
+
+
+
+
+
